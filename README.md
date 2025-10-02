@@ -33,6 +33,12 @@ The framework supports:
   - Uncertainty metrics
   - Building-level and district level material total stock analysis
 
+- `Sample_Size_Vs_Uncertainty.py`: Analyzes the effect of sample size on material-specific uncertainty
+
+  - Runs Monte Carlo simulations across progressively larger building samples
+  - Computes and plots coefficient of variation (CV) vs. sample size
+  - Produces per-material uncertainty curves and scaling plots
+  - Outputs summary statistics and reduction ratios showing how uncertainty decreases as sample size grows
 ---
 
 ##  How to Run
