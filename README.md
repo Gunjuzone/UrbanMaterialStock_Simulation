@@ -23,6 +23,25 @@ The framework supports:
 - `AutoML_Sample_Dataset.csv`: Provides geometric and morphological features used for typology classification, including perimeter, aspect ratio, convexity, solidity, and form ratio.
 - ⚠️ Note: The actual dataset for AutoML classification and Monte Carlo Simulation could not be shared due to licensing restrictions. A synthetic sample is provided instead for structural reference only. 
 
+---
+
+## 🗺️ Zoning Data Source
+
+Typology classification was partially derived from zoning keyword analysis using municipal land-use records from Ajuntament de Barcelona. These records were merged with building geometry from the Mazar dataset using ArcGIS Pro.
+
+The original zoning dataset is publicly available and referenced in the manuscript:
+**Ajuntament de Barcelona.** (2025). *Barcelona municipal land-use records*. Urban Planning Information Portal.  
+Retrieved July 15, 2025, from  https://w20.bcn.cat/CartoBCN/getFile.ashx?prod=107.BARCELONA.2
+
+- `Monte_Carlo_Main.py`: Main simulation script implementing:
+  - Typology sampling
+  - Geometric perturbation
+  - Material mass estimation
+  - Uncertainty metrics
+  - Typology-level and total stock analysis
+
+---
+
 
 ##  Core Script
 
