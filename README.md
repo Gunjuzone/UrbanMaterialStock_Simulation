@@ -35,21 +35,11 @@ The framework supports:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 python Monte_Carlo_Main.py
 
-Or use the main function directly:
-
-from Monte_Carlo_Main import main_geometric_only
-
-mc, building_stats, uncertainty_metrics, calibration_results = main_geometric_only(
-    data_path="Typology_P_Final.csv",
-    rasmi_intensity_path="RASMI_intensity.csv",
-    n_iterations=3000,
-    temperature=1.5,
-    save_dir="geometric_mc_results",
-    height_uncertainty=0.15,
-    area_uncertainty=0.15,
-    enable_typology_uncertainty=True
-)
+ ## Requirements
+- pandas
+- numpy
+- matplotlib
