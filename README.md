@@ -43,6 +43,6 @@ python Monte_Carlo_Main.py
 - pandas
 - numpy
 - matplotlib
-Instal via:
+# Install via:
   pip install -r requirements.txt
 
