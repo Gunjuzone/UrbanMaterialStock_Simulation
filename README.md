@@ -50,7 +50,10 @@ The original zoning dataset is publicly available and referenced in the manuscri
 ---
 
 ##  How to Run
+### Step 1: Run AutoML Typology Classification
+python AutoML_Typology_Classifier.py
 
+### Step 2: Run Monte Carlo Simulation
 python Monte_Carlo_Main.py
 
  ## Requirements
