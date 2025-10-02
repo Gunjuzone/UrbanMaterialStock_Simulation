@@ -21,7 +21,7 @@ The framework supports:
 - `RASMI_intensity.csv`: Contains p50 material intensity values (kg/m²) for different building categories based on height and typology. Materials include Concrete, Brick, Wood, Steel, Glass, Plastics, Aluminium, and Copper.
 - `MC_dataset.csv`: Includes building-level attributes such as coordinates, area, height, true and predicted typology, and calibrated probabilities for Residential, Mixed-Use, Institutional, and Amenities classes.
 - `AutoML_Sample_Dataset.csv`: Provides geometric and morphological features used for typology classification, including perimeter, aspect ratio, convexity, solidity, and form ratio.
-- ⚠️ Note: The actual dataset for AutoML classificcation could not be shared due to licensing restrictions. A synthetic sample is provided instead for structural reference only. 
+- ⚠️ Note: The actual dataset for AutoML classification and Monte Carlo Simulation could not be shared due to licensing restrictions. A synthetic sample is provided instead for structural reference only. 
 
 
 ##  Core Script
