@@ -33,16 +33,6 @@ The original zoning dataset is publicly available and referenced in the manuscri
 **Ajuntament de Barcelona.** (2025). *Barcelona municipal land-use records*. Urban Planning Information Portal.  
 Retrieved July 15, 2025, from  https://w20.bcn.cat/CartoBCN/getFile.ashx?prod=107.BARCELONA.2
 
-- `Monte_Carlo_Main.py`: Main simulation script implementing:
-  - Typology sampling
-  - Geometric perturbation
-  - Material mass estimation
-  - Uncertainty metrics
-  - Typology-level and total stock analysis
-
----
-
-
 ##  Core Script
 
 - `Monte_Carlo_Main.py`: Main simulation script implementing:
