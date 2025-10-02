@@ -30,8 +30,7 @@ The framework supports:
 Typology classification was partially derived from zoning keyword analysis using municipal land-use records from Ajuntament de Barcelona. These records were merged with building geometry from the Mazar dataset using ArcGIS Pro.
 
 The original zoning dataset is publicly available and referenced in the manuscript:
-**Ajuntament de Barcelona.** (2025). *Barcelona municipal land-use records*. Urban Planning Information Portal.  
-Retrieved July 15, 2025, from  https://w20.bcn.cat/CartoBCN/getFile.ashx?prod=107.BARCELONA.2
+**Ajuntament de Barcelona.** (2025). *Barcelona municipal land-use records*. Urban Planning Information Portal. Retrieved July 15, 2025, from  https://w20.bcn.cat/CartoBCN/getFile.ashx?prod=107.BARCELONA.2
 
 ##  Core Script
 
