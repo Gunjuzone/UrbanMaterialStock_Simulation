@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this framework, please cite it as below."
+message: "If you use this software, please cite it as below."
 title: "A Probabilistic Framework for Estimating Urban Material Stocks with Typological and Geometric Uncertainty"
 authors:
   - family-names: "Olagunju"
@@ -23,5 +23,5 @@ authors:
     affiliation: "Department of Civil and Environmental Engineering, Nazarbayev University, Astana, Kazakhstan"
     email: "ferhat.karaca@nu.edu.kz"
 version: "0.1.0"
-date-released: 2025-10-03
-url: "https://github.com/Gunjuzone/UrbanMaterialStock_Simulation/tree/main"
+date-released: "2025-10-03"
+url: "https://github.com/Gunjuzone/UrbanMaterialStock_Simulation"
