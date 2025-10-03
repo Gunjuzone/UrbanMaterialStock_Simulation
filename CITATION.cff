@@ -3,7 +3,7 @@ title: >-
   A Probabilistic Framework for Estimating Urban Material
   Stocks with Typological and Geometric Uncertainty
 message: 'If you use this framework, please cite it as below.'
-type: Article
+type: software
 authors:
   - family-names: Olagunju
     given-names: Sakiru Olarewaju
@@ -36,3 +36,4 @@ authors:
 url: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
 version: 0.1.0
 date-released: '2025-10-03'
+repository: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
