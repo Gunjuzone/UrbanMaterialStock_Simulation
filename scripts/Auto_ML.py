@@ -1,6 +1,4 @@
 """
-AutoML Pipeline with Temperature Scaling Calibration
-====================================================
 This module implements a cross-validation pipeline for multiclass
 classification using AutoGluon with temperature scaling for probability calibration.
 
