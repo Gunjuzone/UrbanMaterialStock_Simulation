@@ -72,3 +72,5 @@ python Monte_Carlo_Main.py
 ### Install via:
   pip install -r requirements.txt
 
+
+Olagunju, S.O., Varol, H.A., Bragança, L., & Karaca, F. (2025). A Probabilistic Framework for Estimating Urban Material Stocks with Typological and Geometric Uncertainty. Submitted to Resources, Conservation & Recycling Advances.
