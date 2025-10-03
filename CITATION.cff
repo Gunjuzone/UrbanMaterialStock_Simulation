@@ -1,12 +1,9 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
   A Probabilistic Framework for Estimating Urban Material
   Stocks with Typological and Geometric Uncertainty
-message: 'If you use this software, please cite it as below.'
-type: software
+message: 'If you use this framework, please cite it as below.'
+type: Article
 authors:
   - family-names: Olagunju
     given-names: Sakiru Olarewaju
