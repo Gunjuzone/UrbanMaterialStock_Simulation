@@ -1,5 +1,5 @@
 # A Probabilistic Framework for Estimating Building Mass Stocks with Typological and Geometric Uncertainty
-Probabilistic simulation framework for estimating urban building material stocks under typology and geometric uncertainty. Includes AutoML-based classification, calibrated typology sampling, and Monte Carlo modeling using RASMI material intensities.
+AutoML-powered typology classification, calibrated sampling, and Monte Carlo simulations using RASMI intensities to quantify building mass stocks amid geometric and typological uncertainties.
 
 ##  Overview
 This repository contains the implementation of a probabilistic simulation framework for estimating urban building material stocks under typology and geometric uncertainty.
