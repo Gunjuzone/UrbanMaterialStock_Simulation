@@ -1,6 +1,6 @@
 ```yaml
 cff-version: 1.2.0
-message: "If you use this code, please cite the following manuscript (in preparation):"
+message: "If you use this software, please cite it as below."
 title: "A Probabilistic Framework for Estimating Urban Material Stocks with Typological and Geometric Uncertainty"
 authors:
   - family-names: "Olagunju"
@@ -25,6 +25,6 @@ authors:
     email: "ferhat.karaca@nu.edu.kz"
 version: "0.1.0"
 date-released: "2025-10-03"
-url: "https://github.com/Gunjuzone/Barcelona_Typology"
-abstract: "Manuscript in preparation"
+url: "https://github.com/Gunjuzone/UrbanMaterialStock_Simulation"
+abstract: "Manuscript in preparation."
 ```
