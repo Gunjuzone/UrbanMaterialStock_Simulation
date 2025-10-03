@@ -69,5 +69,8 @@ python Monte_Carlo_Main.py
 - pandas
 - numpy
 - matplotlib
+- autogluon.tabular
+- imbalanced-learn (SMOTE)
+- scikit-learn
 ### Install via:
   pip install -r requirements.txt
