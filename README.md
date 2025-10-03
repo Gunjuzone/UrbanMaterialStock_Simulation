@@ -34,6 +34,15 @@ The original zoning dataset is publicly available and referenced in the manuscri
 
 ##  Core Script
 
+- `AutoML.py` : Implements an AutoML pipeline for building typology classification using geometric features. It performs:
+  - Stratified cross-validation
+  - Feature selection via PCA
+  - SMOTE resampling for class balance
+  - AutoGluon model training
+  - Temperature scaling for probability calibration
+  - Evaluation metrics including accuracy, F1-score, Cohen’s Kappa, and Expected Calibration Error (ECE)
+  - Visualizations of feature importance, selection consistency, and classification performance
+
 - `Monte_Carlo_Main.py`: Main simulation script implementing:
   - Typology sampling
   - Geometric perturbation
