@@ -702,3 +702,6 @@ if __name__ == "__main__":
         area_uncertainty=0.15,
         enable_typology_uncertainty=True
     )
+    # MI SENSITIVITY ANALYSIS
+    from mi_sensitivity import run_mi_sensitivity_analysis
+    district_summary, building_summary = run_mi_sensitivity_analysis(mc, save_dir="MC_Results")
